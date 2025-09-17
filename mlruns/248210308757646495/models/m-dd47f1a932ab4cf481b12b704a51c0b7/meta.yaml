@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/mlops-assignment-1/mlruns/248210308757646495/models/m-dd47f1a932ab4cf481b12b704a51c0b7/artifacts
+creation_timestamp: 1758067685447
+experiment_id: '248210308757646495'
+last_updated_timestamp: 1758067691660
+model_id: m-dd47f1a932ab4cf481b12b704a51c0b7
+model_type: null
+name: DecisionTree
+source_run_id: cdb66985e8804f118a4746c4075d9109
+status: 2
+status_message: null

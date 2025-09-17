@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/mlops-assignment-1/mlruns/248210308757646495/models/m-5985d2acc0fb4917a4ab0bf6320d070a/artifacts
+creation_timestamp: 1758067774596
+experiment_id: '248210308757646495'
+last_updated_timestamp: 1758067777446
+model_id: m-5985d2acc0fb4917a4ab0bf6320d070a
+model_type: null
+name: RandomForest
+source_run_id: a4619f9c31a145a1a6d244ce186b475e
+status: 2
+status_message: null

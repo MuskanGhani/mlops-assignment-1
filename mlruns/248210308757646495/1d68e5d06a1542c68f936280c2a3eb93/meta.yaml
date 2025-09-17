@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/mlops-assignment-1/mlruns/248210308757646495/1d68e5d06a1542c68f936280c2a3eb93/artifacts
+end_time: 1758067756102
+entry_point_name: ''
+experiment_id: '248210308757646495'
+lifecycle_stage: active
+run_id: 1d68e5d06a1542c68f936280c2a3eb93
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758067753211
+status: 3
+tags: []
+user_id: HP

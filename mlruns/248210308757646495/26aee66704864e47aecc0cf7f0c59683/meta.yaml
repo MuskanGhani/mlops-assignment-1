@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/mlops-assignment-1/mlruns/248210308757646495/26aee66704864e47aecc0cf7f0c59683/artifacts
+end_time: 1758067696798
+entry_point_name: ''
+experiment_id: '248210308757646495'
+lifecycle_stage: active
+run_id: 26aee66704864e47aecc0cf7f0c59683
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758067691721
+status: 4
+tags: []
+user_id: HP
